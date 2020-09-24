@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Era Trading Group Supplies to all over Middel East and Africa">
+    <meta name="description" content="Era Trading Group Supplies to all over Germany">
     <link rel="shortcut icon" href="images/favicon.png" />
     <title>Era Trading Group</title>
     <link rel="stylesheet" href="css/bootstrap-grid.min.css">
